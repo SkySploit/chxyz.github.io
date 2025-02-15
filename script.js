@@ -5,6 +5,8 @@ function showInfo(message) {
 window.addEventListener('load', () => {
     const music = document.getElementById('background-music');
     if (music) {
-        music.play();
+        music.play().catch(error => {
+            console.log('Autoplay prevented:', error);
+        });
     }
 });

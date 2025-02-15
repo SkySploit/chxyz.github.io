@@ -7,6 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    cursor: url('blue-circle.png'), auto;
 }
 
 .container {

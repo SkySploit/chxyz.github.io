@@ -1,0 +1,22 @@
+---
+layout: home
+title: Welcome
+---
+
+# About Me
+
+Hello, I am **chxyz**.
+
+- Support in Tyrant Hub
+- Owner of Real Solara
+- Former Moderator for Vysor Hub
+- Former Support for Saturn
+
+Welcome to my personal website. Here you'll find information about my work and interests.
+
+![Profile Image](path-to-your-image.jpg)
+
+## Contact Me
+
+- [GitHub](https://github.com/chxyz)
+- [Twitter](https://twitter.com/your-twitter-handle)

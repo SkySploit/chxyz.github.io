@@ -1,26 +1,6 @@
-title: "chxyz.github.io"
-email: "your-email@example.com"
-description: "This is the personal website of chxyz."
-baseurl: ""
-url: "https://chxyz.github.io"
-twitter_username: "your-twitter-handle"
-github_username: "chxyz"
-
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-jekyll-feed:
-  enable: true
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-title: "chxyz.github.io"
-email: "your-email@example.com"
-description: "This is the personal website of chxyz."
+title: "Quantum X Store"
+Discord: "your-email@example.com"
+description: "Website for Quantum X script sales."
 baseurl: ""
 url: "https://chxyz.github.io"
 twitter_username: "your-twitter-handle"

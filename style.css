@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: #0f0f0f;
+    color: #33ff33;
     margin: 0;
     padding: 0;
     display: flex;
@@ -11,8 +11,8 @@ body {
 }
 
 .container {
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #1a1a1a;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -26,7 +26,7 @@ header {
 
 header h1 {
     font-size: 2em;
-    color: #004aad;
+    color: #33ff33;
 }
 
 main {
@@ -41,21 +41,22 @@ main {
 .pricing li {
     margin: 10px 0;
     font-size: 1.2em;
+    color: #33ff33;
 }
 
 .buy-button, .discord-button {
     display: inline-block;
     padding: 10px 20px;
     margin: 10px 0;
-    background-color: #004aad;
-    color: #fff;
+    background-color: #33ff33;
+    color: #0f0f0f;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s;
 }
 
 .buy-button:hover, .discord-button:hover {
-    background-color: #003a8c;
+    background-color: #00cc00;
 }
 
 footer {

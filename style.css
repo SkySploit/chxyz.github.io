@@ -53,7 +53,7 @@ main {
     display: inline-block;
     padding: 10px 20px;
     margin: 10px 0;
-    background-color: #808080;
+    background-color: #1a1a1a;
     color: #ffffff;
     text-decoration: none;
     border: 2px solid #33ff33;
@@ -62,7 +62,7 @@ main {
 }
 
 .buy-button:hover, .discord-button:hover {
-    background-color: #666666;
+    background-color: #333333;
 }
 
 footer {
